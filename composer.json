@@ -1,0 +1,6 @@
+{
+    "name": "jeru/zap-sample",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
